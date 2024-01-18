@@ -50,3 +50,9 @@ The application will be available at [http://localhost:3000](http://localhost:30
 
 You can add transactions by clicking the "Add Transaction" button and filling out the form.
 ![Alt text](image.png)
+
+## Metrics
+
+Performance metrics by google show a 99% overall performance score.
+
+![Alt text](image-3.png)
