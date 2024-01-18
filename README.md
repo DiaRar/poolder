@@ -1,6 +1,7 @@
 # Poolder Case
 
-> A simple transaction dashboard using Next.js and Supabase
+> A simple transaction dashboard using Next.js and Supabase.
+> Currently at https://poolder.vercel.app/dashboard
 
 ![Alt text](image-1.png)
 
