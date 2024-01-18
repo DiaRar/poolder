@@ -4,6 +4,8 @@
 
 ![Alt text](image-1.png)
 
+![Alt text](image-2.png)
+
 ## Table of Contents
 
 - [Setup](#setup)
@@ -18,7 +20,7 @@ NEXT_PUBLIC_SUPABASE_URL=
 NEXT_PUBLIC_SUPABASE_ANON_KEY=
 ```
 
-Then set up your Supabase project with the following table:
+Then set up your Supabase project with the following table ( OPEN SQL EDITOR ):
 
 ```sql
 CREATE TABLE public."Transactions" (
@@ -31,7 +33,7 @@ CREATE TABLE public."Transactions" (
   ) tablespace pg_default;
 ```
 
-See [Supabase](https://supabase.io/) for more information.
+See [Supabase](https://supabase.io/) for more information. Note that you will also need to set up RSL to allow the app to connect, or disable it in the Supabase dashboard.
 
 Then, run the following commands to start the application:
 
