@@ -11,7 +11,7 @@
 
 ## Setup
 
-First, make sure your .env file is set up with the following variables:
+First, make sure your `.env` file is set up with the following variables:
 
 ```sh
 NEXT_PUBLIC_SUPABASE_URL=
