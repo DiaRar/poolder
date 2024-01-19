@@ -11,6 +11,7 @@
 
 - [Setup](#setup)
 - [Usage](#usage)
+- [Metrics](#metrics)
 
 ## Setup
 
