@@ -54,6 +54,6 @@ You can add transactions by clicking the "Add Transaction" button and filling ou
 
 ## Metrics
 
-Performance metrics by google show a 99% overall performance score.
+Performance metrics by google show a 100% overall performance score.
 
-![Alt text](image-3.png)
+![Alt text](image-4.png)
